@@ -1,5 +1,5 @@
 import { Event } from '@/views/event/Event'
-import { Home } from '@/views/home/home'
+import { Home } from '@/views/home/Home'
 import { Mission } from '@/views/mission/Mission'
 import { Ticket } from '@/views/ticket/Ticket'
 
