@@ -1,0 +1,8 @@
+.menu-header:hover::after,
+.menu-header[aria-open='true']::after {
+  @apply w-full;
+}
+
+.menu-header[aria-open='true'] {
+  @apply text-yellow-300;
+}
